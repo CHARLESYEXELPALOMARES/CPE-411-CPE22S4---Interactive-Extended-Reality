@@ -14,7 +14,7 @@ I'm a **Computer Engineering student**
 ---
 
 ## 💻 Tech Stack  
-### Neon Cyberpunk Badges
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-0A0F1F?style=for-the-badge&logo=cplusplus&logoColor=00E5FF)
 ![Python](https://img.shields.io/badge/Python-1A0033?style=for-the-badge&logo=python&logoColor=FFEA00)
