@@ -1,4 +1,4 @@
-# CPE-411-CPE22S4---Interactive-Extended-Reality
+# CPE-411-CPE22S4-Interactive-Extended-Reality
 
 <!-- Cyberpunk Neon Typing Header -->
 <p align="center">
