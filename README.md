@@ -15,7 +15,7 @@
 
 ---
 
-## 💻 Tech Stack Tech Stack & Tools 🛠️ ​
+## 💻 Tech Stack & Tools 🛠️ ​
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-0A0F1F?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
