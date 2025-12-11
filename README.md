@@ -5,18 +5,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF00CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Future+XR+and+AI+Developer;Cyberpunk+Tech+Explorer" />
 </p>
 
-<!-- Neon Line -->
-<p align="center">
-  <img src="https://i.imgur.com/HTI2G6e.gif" width="600" />
-</p>
-
 ---
 
 ## 👾 About Me  
 - 🎓 **Computer Engineering Student**  
 - 🧠 Currently learning **HCI (Human–Computer Interaction)**  
 - 💡 Interested in **AI, XR, and futuristic interfaces**  
-- ⚡ Loves **cyberpunk aesthetics**, neon tech, and digital design  
 
 ---
 
@@ -26,16 +20,6 @@
 <img src="https://img.shields.io/badge/C++-0A0F1F?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
 <img src="https://img.shields.io/badge/Python-1A0033?style=for-the-badge&logo=python&logoColor=FFEA00" />
 
-</p>
-
----
-
-## ⚡ Cyberpunk Aesthetic GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400">
-</p>
-
----
 
 ## 📊 GitHub Stats (Neon Theme)  
 
