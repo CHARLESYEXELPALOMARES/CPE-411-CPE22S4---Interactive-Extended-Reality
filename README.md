@@ -21,12 +21,4 @@
 <img src="https://img.shields.io/badge/Python-1A0033?style=for-the-badge&logo=python&logoColor=FFEA00" />
 
 
-## 📊 GitHub Stats (Neon Theme)  
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
