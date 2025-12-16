@@ -9,9 +9,19 @@
 ---
 <p align="center">
   <h2>👾 About Me ✨</h2>
-  🎓 <b>Computer Engineering Student</b> dedicated to innovation and problem-solving.<br>
-  🧠 Currently focused on learning <b>HCI (Human–Computer Interaction)</b>.<br>
-  💡 Interested in the intersection of <b>AI, XR, and futuristic interfaces</b>.
+</p>
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="left">
+        🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
+        🧠 Currently focused on learning <b>HCI Principles</b>.<br>
+        💡 Interested in <b>AI, XR, and futuristic interfaces</b>.<br>
+        🚀 <b>Looking to collaborate</b> on VR/AR projects.
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
