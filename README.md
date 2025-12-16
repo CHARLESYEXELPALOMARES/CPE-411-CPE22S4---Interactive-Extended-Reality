@@ -8,12 +8,8 @@
 
 ---
 
-<table align="center" border="0">
-  <tr>
-    <td align="center">
-      <h1>👾 About Me ✨</h1>
-      <p>
-      
+
+<p align="center">
   <table align="center">
     <tr>
       <td align="left">
@@ -26,7 +22,6 @@
   </table>
 </p>
 
----
 ---
 
 <p align="center">
