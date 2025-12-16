@@ -8,15 +8,11 @@
 
 ---
 <p align="center">
-  <h2>👾 About Me ✨</h2>
-</p>
-
-<p align="center">
-  🎓 I am a <b>Computer Engineering student</b> with a deep-seated passion for innovation and the future of technology.<br>
-  🧠 My academic journey is currently centered on mastering <b>HCI Principles</b> to create more intuitive digital experiences.<br>
-  💡 I spend my time exploring the limitless possibilities within <b>AI, XR, and futuristic interfaces</b>.<br>
-  🔍 When I'm not coding, I'm diving deep into <b>research</b> or immersed in the worlds of <b>competitive gaming</b>.<br>
-  🌿 Beyond the screen, I find my balance in <b>nature</b>—whether I'm <b>hiking</b> rugged trails or tending to my <b>fishkeeping</b> hobby.<br>
+  <b>👾 About Me ✨</b><br><br>
+  🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
+  🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
+  🎮 <b>Gamer</b> with a deep passion for <b>exploring nature</b>.<br>
+  🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
 </p>
 
 ---
