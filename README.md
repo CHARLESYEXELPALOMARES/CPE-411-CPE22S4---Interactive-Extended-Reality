@@ -24,7 +24,6 @@
     </tr>
   </table>
 </p>
-Why this works:
 ---
 
 <p align="center">
