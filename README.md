@@ -7,7 +7,7 @@
 </p>
 
 ---
-​## 👾 About Me ✨
+👾 About Me 
 
 * 🎓 **Computer Engineering Student** dedicated to innovation and problem-solving.
 * 🧠 Currently focused on learning and applying **HCI (Human–Computer Interaction)** principles for intuitive design.
