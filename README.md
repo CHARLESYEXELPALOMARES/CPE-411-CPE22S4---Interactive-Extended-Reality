@@ -8,11 +8,14 @@
 
 ---
 <p align="center">
-  <b>👾 About Me ✨</b><br><br>
+  <br>
+  <font size="6"><b>👾 About Me ✨</b></font><br><br>
+  <font size="3">
   🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
   🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
-  🎮 <b>Gamer</b> with a deep passion for <b>exploring gamaes</b>.<br>
+  🎮 <b>Gamer</b> with a deep passion for <b>exploring nature</b>.<br>
   🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
+  </font>
 </p>
 
 ---
