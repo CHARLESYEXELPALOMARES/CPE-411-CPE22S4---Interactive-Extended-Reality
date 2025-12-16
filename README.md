@@ -7,8 +7,10 @@
 </p>
 
 ---
-
-      <h1>👾 About Me ✨</h1>
+ <p align="center">
+  <br>
+  <h2>👾 About Me ✨</h2>
+</p>     
 
 <p align="center">
   <table align="center">
