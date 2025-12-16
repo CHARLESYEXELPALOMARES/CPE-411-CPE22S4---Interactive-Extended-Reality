@@ -7,9 +7,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=FF66CC&center=true&vCenter=true&width=750&lines=CPE-411-CPE22S4-Interactive-Extended-Reality;Computer+Engineering;Bridging+Physical+and+Digital+Worlds" />
-</p>
 
 <div align="center">
   <br>
@@ -22,6 +19,9 @@
       🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
     </font>
   </p>
+
+---
+
 </div>
 
 <p align="center">
