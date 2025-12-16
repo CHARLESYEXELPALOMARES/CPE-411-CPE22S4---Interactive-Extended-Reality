@@ -7,22 +7,14 @@
 </p>
 
 ---
-<p align="center">
-  <br>
-  <img src="https://img.shields.io/badge/-Tech%20Stack%20%26%20Tools-FF66CC?style=for-the-badge" /><br><br>
-  
-  <b>🚀 Programming Languages</b><br>
-  <img src="https://img.shields.io/badge/C++-0A0F1F?style=for-the-badge&logo=cplusplus&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Python-1A0033?style=for-the-badge&logo=python&logoColor=00E5FF" /><br><br>
-
-  <b>🕶️ XR & AI Development</b><br>
-  <img src="https://img.shields.io/badge/Unity-212121?style=for-the-badge&logo=unity&logoColor=FF66CC" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6D00?style=for-the-badge&logo=tensorflow&logoColor=FF66CC" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FF66CC" /><br><br>
-
-  <b>📐 Design & Simulation</b><br>
-  <img src="https://img.shields.io/badge/AutoCAD-191919?style=for-the-badge&logo=autodesk&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/NI%20Multisim-E31C23?style=for-the-badge&logo=ni&logoColor=00E5FF" />
-</p>
-
----
+<div align="center">
+  <h1>👾 About Me ✨</h1>
+  <p>
+    <font size="4">
+      🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
+      🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
+      🎮 <b>Gamer</b> and <b>Sports Enthusiast</b> with a passion for <b>exploring nature</b>.<br>
+      🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
+    </font>
+  </p>
+</div>
