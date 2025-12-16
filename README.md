@@ -13,7 +13,7 @@
     <td align="center">
       <h1>👾 About Me ✨</h1>
       <p>
-        <p align="center">
+      
   <table align="center">
     <tr>
       <td align="left">
