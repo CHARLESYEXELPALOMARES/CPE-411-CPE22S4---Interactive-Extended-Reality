@@ -7,17 +7,17 @@
 </p>
 
 ---
-<p align="center">
-  <br>
-  <font size="10"><b>👾 About Me ✨</b></font><br><br>
-  <font size="5">
-  🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
-  🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
-  🎮 <b>Gamer</b> with a deep passion for <b>exploring nature</b>.<br>
-  🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
-  </font>
-</p>
-
+<div align="center">
+  <h1>👾 About Me ✨</h1>
+  <p>
+    <font size="4">
+      🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
+      🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
+      🎮 <b>Gamer</b> and <b>Sports Enthusiast</b> with a passion for <b>exploring nature</b>.<br>
+      🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
+    </font>
+  </p>
+</div>
 ---
 
 <p align="center">
