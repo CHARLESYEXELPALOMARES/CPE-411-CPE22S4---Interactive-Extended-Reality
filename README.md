@@ -10,19 +10,19 @@
  <p align="center">
   <br>
   <h2>👾 About Me ✨</h2>
-</p>     
+</p>
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="left">
-        🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
-        🧠 Currently focused on learning <b>HCI Principles</b>.<br>
-        💡 Interested in <b>AI, XR, and futuristic interfaces</b>.<br>
-        🚀 <b>Looking to collaborate</b> on VR/AR projects.
-      </td>
-    </tr>
-  </table>
+ <table align="center">
+  <tr>
+   <td align="left">
+    🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
+    🧠 Currently focused on learning <b>HCI Principles</b>.<br>
+    💡 Interested in <b>AI, XR, and futuristic interfaces</b>.<br>
+    🚀 <b>Looking to collaborate</b> on VR/AR projects.
+   </td>
+  </tr>
+ </table>
 </p>
 
 ---
