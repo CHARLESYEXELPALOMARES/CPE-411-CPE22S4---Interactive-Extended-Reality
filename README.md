@@ -8,12 +8,16 @@
 
 ---
 <p align="center">
-  <h2>👾 About Me ✨</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1&color=FF66CC&center=true&vCenter=true&width=435&lines=👾+About+Me+✨" />
+</p>
+
+<p align="center">
   🎓 <b>Computer Engineering Student</b> dedicated to innovation and problem-solving.<br>
   🧠 Currently focused on learning <b>HCI (Human–Computer Interaction)</b>.<br>
   💡 Interested in the intersection of <b>AI, XR, and futuristic interfaces</b>.<br>
   🚀 <b>Looking to collaborate</b> on VR, AR, or Machine Learning projects.
 </p>
+
 ---
 
 <p align="center">
