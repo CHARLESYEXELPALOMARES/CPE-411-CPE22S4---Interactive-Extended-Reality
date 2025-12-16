@@ -25,6 +25,7 @@
 <div align="center">
   <table align="center" style="border-collapse: collapse; border: 2px solid #00E5FF;">
     <tr>
+      <br>
       <td align="center" style="padding: 15px; border: none;">
         <img src="https://img.shields.io/badge/-Tech%20Stack%20%26%20Tools-FF66CC?style=for-the-badge" /><br><br>
         <b>🚀 Programming Languages</b><br>
