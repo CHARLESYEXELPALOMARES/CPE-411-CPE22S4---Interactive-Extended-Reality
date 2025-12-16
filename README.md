@@ -9,10 +9,14 @@
 ---
 
 ​👾 About Me ✨
-​🎓 Computer Engineering Student dedicated to innovation and problem-solving.
-​🧠 Currently focused on learning and applying HCI (Human–Computer Interaction) principles for intuitive design.
-​💡 Interested in the intersection of AI, XR, and futuristic interfaces—building immersive and intelligent systems.
-​🚀 Looking to collaborate on projects involving virtual reality, augmented reality, or machine learning.
+​
+🎓 Computer Engineering Student dedicated to innovation and problem-solving.
+​
+🧠 Currently focused on learning and applying HCI (Human–Computer Interaction) principles for intuitive design.
+​
+💡 Interested in the intersection of AI, XR, and futuristic interfaces—building immersive and intelligent systems.
+​
+🚀 Looking to collaborate on projects involving virtual reality, augmented reality, or machine learning.
 
 ---
 
