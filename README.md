@@ -7,15 +7,15 @@
 </p>
 
 ---
- <p align="center">
-  <table align="center" border="0">
+<p align="center">
+  <table align="center" style="border: none; border-collapse: collapse;">
     <tr>
-      <td align="center">
-        <h2>👾 About Me ✨</h2>
+      <td align="center" style="border: none;">
+        <h2 align="center">👾 About Me ✨</h2>
       </td>
     </tr>
     <tr>
-      <td align="left">
+      <td align="left" style="border: none;">
         🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
         🧠 Currently focused on learning <b>HCI Principles</b>.<br>
         💡 Interested in <b>AI, XR, and futuristic interfaces</b>.<br>
