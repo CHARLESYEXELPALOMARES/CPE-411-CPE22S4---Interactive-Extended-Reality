@@ -8,7 +8,7 @@
 
 ---
 
-​👾 About Me ✨
+#​👾 About Me ✨
 ​
 🎓 Computer Engineering Student dedicated to innovation and problem-solving.
 ​
