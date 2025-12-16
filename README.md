@@ -8,11 +8,12 @@
 
 ---
  <p align="center">
-  <h2>👾 About Me ✨</h2>
-</p>
-
-<p align="center">
-  <table align="center">
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <h2>👾 About Me ✨</h2>
+      </td>
+    </tr>
     <tr>
       <td align="left">
         🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
@@ -23,7 +24,7 @@
     </tr>
   </table>
 </p>
-
+Why this works:
 ---
 
 <p align="center">
