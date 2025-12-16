@@ -12,10 +12,11 @@
 </p>
 
 <p align="center">
-  🎓 <b>Computer Engineering Student</b> dedicated to innovation.<br>
-  🧠 Currently focused on learning <b>HCI Principles</b>.<br>
-  💡 Interested in <b>AI, XR, and futuristic interfaces</b>.<br>
-  🚀 <b>Looking to collaborate</b> on VR/AR projects.
+  🎓 I am a <b>Computer Engineering student</b> with a deep-seated passion for innovation and the future of technology.<br>
+  🧠 My academic journey is currently centered on mastering <b>HCI Principles</b> to create more intuitive digital experiences.<br>
+  💡 I spend my time exploring the limitless possibilities within <b>AI, XR, and futuristic interfaces</b>.<br>
+  🔍 When I'm not coding, I'm diving deep into <b>research</b> or immersed in the worlds of <b>competitive gaming</b>.<br>
+  🌿 Beyond the screen, I find my balance in <b>nature</b>—whether I'm <b>hiking</b> rugged trails or tending to my <b>fishkeeping</b> hobby.<br>
 </p>
 
 ---
