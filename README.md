@@ -7,18 +7,6 @@
 </p>
 
 ---
-<div align="center">
-  <h1>👾 About Me ✨</h1>
-  <p>
-    <font size="4">
-      🎓 <b>Computer Engineering Student</b> focused on <b>HCI, AI, and XR</b>.<br>
-      🔍 Dedicated to <b>researching</b> and <b>building futuristic interfaces</b>.<br>
-      🎮 <b>Gamer</b> and <b>Sports Enthusiast</b> with a passion for <b>exploring nature</b>.<br>
-      🌿 <b>Nature Hobbyist:</b> Botany, Fishkeeping, and Insectkeeping.
-    </font>
-  </p>
-</div>
----
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/-Tech%20Stack%20%26%20Tools-FF66CC?style=for-the-badge" /><br><br>
