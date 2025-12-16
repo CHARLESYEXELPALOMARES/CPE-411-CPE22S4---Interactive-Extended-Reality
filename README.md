@@ -1,24 +1,24 @@
 <p align="center">
-💻 CPE-411-CPE22S4-Interactive-Extended-Reality
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=FF66CC&center=true&vCenter=true&width=750&lines=CPE-411-CPE22S4-Interactive-Extended-Reality;Computer+Engineering;Bridging+Physical+and+Digital+Worlds" />
 </p>
-<!-- Cyberpunk Neon Typing Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=FF00CC&center=true&vCenter=true&width=700&lines=Welcome+to+my+Github!;Computer+Engineering;Bridging+Physical+and+Digital+Worlds" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF00CC&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
-👾 About Me 
-
-* 🎓 **Computer Engineering Student** dedicated to innovation and problem-solving.
-* 🧠 Currently focused on learning and applying **HCI (Human–Computer Interaction)** principles for intuitive design.
-* 💡 Interested in the intersection of **AI, XR, and futuristic interfaces**—building immersive and intelligent systems.
-* 🚀 **Looking to collaborate** on projects involving Virtual Reality, Augmented Reality, or Machine Learning.
----
-
-## 💻 Tech Stack & Tools 🛠️
 
 <p align="center">
-  <br>
+  <h2>👾 About Me ✨</h2>
+  🎓 <b>Computer Engineering Student</b> dedicated to innovation and problem-solving.<br>
+  🧠 Currently focused on learning <b>HCI (Human–Computer Interaction)</b>.<br>
+  💡 Interested in the intersection of <b>AI, XR, and futuristic interfaces</b>.<br>
+  🚀 <b>Looking to collaborate</b> on VR, AR, or Machine Learning projects.
+</p>
+
+---
+
+<p align="center">
   <img src="https://img.shields.io/badge/-Tech%20Stack%20%26%20Tools-FF66CC?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -39,4 +39,12 @@
   <b>📐 Design & Simulation</b><br>
   <img src="https://img.shields.io/badge/AutoCAD-191919?style=for-the-badge&logo=autodesk&logoColor=FF66CC" />
   <img src="https://img.shields.io/badge/NI%20Multisim-E31C23?style=for-the-badge&logo=ni&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <h2>📊 My GitHub Activity 📈</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&rank_icon=github&icon_color=FF66CC&text_color=FFFFFF&bg_color=121212" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&stroke=FF66CC&background=121212&ring=FF66CC&fire=FF66CC" width="48%" />
 </p>
