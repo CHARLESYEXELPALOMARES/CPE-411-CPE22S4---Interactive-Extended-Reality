@@ -8,16 +8,26 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1&color=FF66CC&center=true&vCenter=true&width=435&lines=👾+About+Me+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=FF66CC&center=true&vCenter=true&width=750&lines=CPE-411-CPE22S4-Interactive-Extended-Reality;Computer+Engineering;Bridging+Physical+and+Digital+Worlds" />
 </p>
 
-<p align="center">
-  🎓 <b>Computer Engineering Student</b> dedicated to innovation and problem-solving.<br>
-  🧠 Currently focused on learning <b>HCI (Human–Computer Interaction)</b>.<br>
-  💡 Interested in the intersection of <b>AI, XR, and futuristic interfaces</b>.<br>
-  🚀 <b>Looking to collaborate</b> on VR, AR, or Machine Learning projects.
-</p>
+---
 
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <h1>👾 About Me ✨</h1>
+      <p>
+        🎓 <b>Computer Engineering Student</b> dedicated to innovation and problem-solving.<br>
+        🧠 Currently focused on learning <b>HCI (Human–Computer Interaction)</b>.<br>
+        💡 Interested in the intersection of <b>AI, XR, and futuristic interfaces</b>.<br>
+        🚀 <b>Looking to collaborate</b> on VR, AR, or Machine Learning projects.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 ---
 
 <p align="center">
