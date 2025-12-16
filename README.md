@@ -13,11 +13,7 @@
 ​🧠 Currently focused on learning and applying HCI (Human–Computer Interaction) principles for intuitive design.
 ​💡 Interested in the intersection of AI, XR, and futuristic interfaces—building immersive and intelligent systems.
 ​🚀 Looking to collaborate on projects involving virtual reality, augmented reality, or machine learning.
-​<p align="left">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=AA00FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</p
-​
-<p align="left">
+<p align="center">
 
 ---
 
